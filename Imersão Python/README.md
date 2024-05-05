@@ -1,5 +1,3 @@
-
-
 <h1 id="quem-sou-eu"># Quem sou eu</h1>
 <p>
 
@@ -46,5 +44,5 @@ Aliás, nesse <a href="[Jupyter da aula 4](https://github.com/ricardopeloi/alura
 Caso você não saiba, a Alura é uma grande escola de tecnologia, que oferece suas aulas de forma online, tanto com conteúdos gratuitos (excelentes, como nessa Imersão que fiz nesse repositório), como em conteúdos pagos (ainda mais excelentes). Não é jabá não, <a href="https://www.alura.com.br/">[entra no site deles e confira por si mesmo</a>.</p>
 ](https://www.alura.com.br/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAyNTUyNjcsNjU4NjAxOTk0XX0=
+eyJoaXN0b3J5IjpbODU4MjE4MDQxLDY1ODYwMTk5NF19
 -->
