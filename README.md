@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="quem-sou-eu">Quem sou eu</h1>
 <p>Olá! 👋<br>
 Meu nome é Ricardo, sou Engenheiro de Computação formado pela <strong>Unicamp</strong>, e Consultor da <strong>Falconi</strong>.</p>
